@@ -15,7 +15,7 @@ public class BasicCalculator {
 		
 		
 		//printing the calculated values
-		System.out.println("The addition, subtraction, multiplication and division value of 2 numbers " + number1+ "and "+ number2 +  " is" + addition + ", " + substraction + ", " + multiplication + " and " + division );
+		System.out.println("The addition, subtraction, multiplication and division value of 2 numbers " + number1+ "and "+ number2 +  " is " + addition + ", " + substraction + ", " + multiplication + " and " + division );
 
 		
 		

@@ -6,6 +6,8 @@ public class CountDown{
 		//take input value of the countdown starting from the user 
 		Scanner sc= new Scanner(System.in);
 		int counter = sc.nextInt();
+		
+		//showing the countdown
 		while(counter>=1){
 			System.out.println(counter);
 			counter--;

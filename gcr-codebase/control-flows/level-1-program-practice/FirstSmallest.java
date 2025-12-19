@@ -10,11 +10,11 @@ public class FirstSmallest{
 		int number3 = sc.nextInt();
 		
 		//showing the output
-		if(number1>number2 && number1>number3){
-			System.out.println(" Is the first number the smallest? " + " yes");
+		if(number1>number2 || number1>number3){
+			System.out.println(" Is the first number the smallest? " + " no");
 		}
 		else{
-			System.out.println(" Is the first number the smallest? " + " no");
+			System.out.println(" Is the first number the smallest? " + " yes");
 		}
 	}
 	

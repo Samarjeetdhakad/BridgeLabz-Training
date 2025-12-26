@@ -1,25 +1,16 @@
 # Eclipse specific files
-
-.metadata/
-
 .settings/
-
 .classpath
-
 .project
+/.metadata/
 
-# Java build output
-
+# Compiled files
 bin/
-
 target/
 
 # Logs
-
 *.log
 
-# OS generated files
-
+# OS files
 .DS_Store
-
 Thumbs.db

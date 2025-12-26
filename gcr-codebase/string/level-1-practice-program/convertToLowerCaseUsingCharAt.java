@@ -4,7 +4,6 @@ import java.util.Scanner;
    
    public static String convertToLowerCaseUsingCharAt(String text) {
         String result = "";
-
         for(int i = 0; i < text.length(); i++) {
             char ch = text.charAt(i);
 
@@ -15,8 +14,7 @@ import java.util.Scanner;
             result = result + ch;
           }
         return result;
-        }
-		
+        }		
 		   // compare two strings 
     public static boolean compareStringsUsingCharAt(String s1, String s2) {
         if(s1.length() != s2.length()){

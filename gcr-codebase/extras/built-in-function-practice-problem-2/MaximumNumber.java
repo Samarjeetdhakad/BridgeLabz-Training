@@ -1,7 +1,7 @@
 // Write a program that takes three integer inputs from the user and finds the
 //maximum of the three numbers.
 import java.util.Scanner;
-public class MaximumNumber{
+public class MaximumNumbers{
  public static int findMaxNumber(int number1,int number2,int number3){
      int max=number1;
 	 if(number2>max){

@@ -129,3 +129,24 @@ BridgeLabz-Training/
 
 🔗 **Code Link:**  
 👉 [Day 7 – Built-in Functions](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
+
+## Day 8 - Extras
+**Date:** 24-Dec-2025
+
+- Practiced extra built-in methods
+- Learned math.random, math.pow(),etc
+- **Code Link:** [extras](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
+
+-  ## Day 9 - Scenario based questions
+**Date:** 26-Dec-2025
+
+- Practiced scenario questions
+- created programs using switch case and if-else
+-  **Code Link:** [scenario-based](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+-  ## Day 10 - leetcode problems
+**Date:** 28-Dec-2025
+
+- Practiced arrays questions
+- Implemented decision-making problems
+- **Code Link:** [leetcode-codebase](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)

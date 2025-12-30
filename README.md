@@ -14,3 +14,12 @@
 - local variable and class variable
 - understood access modifiers concepts
 -*Code Link:* [constructors](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsCocepts/src/com/constructor/level1)
+
+ 
+  ##  Day 3 – keywords and instanceof operator
+**Date:** 29-Dec-2025
+
+- learned about this,static keyword 
+- learned the use of final keyword
+- practiced instanceOf operator
+-**Code Link:** [keywords](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsCocepts/src/com/thisstatic)

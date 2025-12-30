@@ -44,3 +44,4 @@ public class Company {
 	   public String getDesignation() {
 	       return designation;
 	   }
+}

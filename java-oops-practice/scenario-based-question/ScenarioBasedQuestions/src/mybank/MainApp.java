@@ -36,7 +36,7 @@ public class MainApp {
             account = (choice == 1)? new SavingsAccount(accNo): new CurrentAccount(accNo);
             }
 
-        System.out.println("\n account created");
+        System.out.println("\n account created1");
         account.displayDetails();
 
         System.out.print("\nEnter amount to deposit: INR");

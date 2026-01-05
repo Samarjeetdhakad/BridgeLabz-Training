@@ -14,7 +14,6 @@ public class SmartHomeMain {
         controller.controlDevice(ac,true);
 
         controller.controlDevice(fan,false);
-
         controller.compareEnergy(light,ac);
     }
 }

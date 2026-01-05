@@ -34,7 +34,8 @@ public class MainApp {
 
         } else {
             account = (choice == 1)? new SavingsAccount(accNo): new CurrentAccount(accNo);
-            }
+            }2
+        
 
         System.out.println("\n account created1");
         account.displayDetails();

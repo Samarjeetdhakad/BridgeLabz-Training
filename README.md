@@ -65,8 +65,15 @@
 - Applied Encapsulation, Inheritance, Abstraction, and Polymorphism in practical use cases  
 - Designed modular classes and helper methods for better readability and reusability  
 - Implemented interfaces and method overriding to achieve flexible and scalable designs  
-- **Code Link:** [Scenario Based OOP](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-question/ScenarioBasedQuestions
-- ).
+- **Code Link:** [Scenario Based OOP](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-question/ScenarioBasedQuestions/src).
 
+- ## Day 08 – Advanced Scenario Based OOP Applications  
+**Date:** 03-Jan-2026  
+
+- Designed backend logic for CabbyGo ride-hailing app using OOP principles  
+- Implemented inheritance and polymorphism for different vehicle and account types  
+- Applied encapsulation to secure sensitive data like fare, balance, and ratings  
+- Used interfaces to abstract core services such as ride booking and banking transactions  
+- **Code Link:** [Advanced Scenario OOP](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-question/ScenarioBasedQuestions/src)
 
 

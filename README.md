@@ -58,4 +58,15 @@
 - Applied OOP concepts through practical examples  
 - **Code Link:** [Encapsulation & Polymorphism](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsCocepts/src/com/encapsulationpolymorphisminterfaceandabstract).
 
+ - ## Day 07 – Scenario Based OOP Problems  
+**Date:** 02-Jan-2026  
+
+- Solved real-world scenario-based problems using OOP concepts in Java  
+- Applied Encapsulation, Inheritance, Abstraction, and Polymorphism in practical use cases  
+- Designed modular classes and helper methods for better readability and reusability  
+- Implemented interfaces and method overriding to achieve flexible and scalable designs  
+- **Code Link:** [Scenario Based OOP](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-question/ScenarioBasedQuestions
+- ).
+
+
 

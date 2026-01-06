@@ -168,3 +168,12 @@ BridgeLabz-Training/
 - used different types of loops
 -  **Code Link:** [scenario-based](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
+
+-  ## Day 13 - Scenario based questions
+**Date:** 31-Dec-2025
+
+- Practiced scenario based questions
+- Solved and Submitted all the scenario based questions
+- used different types of loops
+-  **Code Link:** [scenario-based]( https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase).
+

@@ -111,7 +111,7 @@ BridgeLabz-Training/
 
 🔗 **Code Link:**  
 👉 [Day 6 – Strings](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/string)
- [ Methods] (https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
+ [ Methods](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods).
 
 ---
 

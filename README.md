@@ -132,3 +132,78 @@ BridgeLabz-Training/
 - Practiced arrays questions
 - Implemented decision-making problems
 - **Code Link:** [leetcode-codebase](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase).
+
+
+-  ## Day 12 - Scenario based questions & Inbuilt functions
+**Date:** 29-Dec-2025
+
+- Practiced scenario based questions
+- created mini projects using switch case and if-else
+- used different types of loops
+- learned this, static, final keywords
+- Practice instanceof operator
+-  **Code Link:** [scenario-based]( https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+-  **Code Link:** [Inbuilt functions](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsCocepts/src/com/thisstatic)
+
+
+## Day 13 – Object Modeling & Diagrams  
+**Date:** 30-Dec-2025
+
+- Learned the difference between Classes and Objects in Java  
+- Understood Object Modeling concepts  
+- Studied Class Diagram and its components  
+- Learned Object Diagram representation  
+- Understood basics of Sequence Diagram
+- Solved some scenario based
+- **Code Link:** [Object Modeling](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsCocepts/src/com/objectmodelling)
+- **Code Link:** [scenario-based]( https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+
+- ## Day 14 – Inheritance  & Scenario Based Questions
+**Date:** 31-Dec-2025  
+
+- Learned the concept of Inheritance in Java  
+- Studied Single Level Inheritance  
+- Understood Multilevel Inheritance  
+- Learned Hierarchical Inheritance    
+- Understood Method Overriding   
+- Understood Polymorphism with Inheritance  
+- Studied Access Modifiers and their role in Inheritance  
+- **Code Link:** [Inheritance](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsCocepts/src/com/inheritance)
+- **Code Link:** [scenario-based]( https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+- ## Day 15 – Encapsulation, Interface, Abstract Classes, and Polymorphism  
+**Date:** 01-Jan-2026  
+
+- Learned the concept of Encapsulation in Java  
+- Understood Polymorphism and its importance in OOP  
+- Studied Interfaces and their usage  
+- Learned Abstract Classes and their role in abstraction  
+- Understood differences between Interface and Abstract Class  
+- Applied OOP concepts through practical examples  
+- **Code Link:** [Encapsulation & Polymorphism](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsCocepts/src/com/encapsulationpolymorphisminterfaceandabstract)
+
+- ## Day 16 – Scenario Based OOP Problems  &  Data Structures: Introduction & LinkedList 
+**Date:** 02-Jan-2026  
+
+- Solved real-world scenario-based problems using OOP concepts in Java  
+- Applied Encapsulation, Inheritance, Abstraction, and Polymorphism in practical use cases  
+- Implemented interfaces and method overriding to achieve flexible and scalable designs
+- Introduced to Data Structures and their importance in problem solving  
+- Learned LinkedList fundamentals and basic operations  
+- Reviewed DSA preparation plan and learning roadmap
+- **Code Link:** [Scenario Based OOP](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-question/ScenarioBasedQuestions/src)
+- **Code Link:** [DSA-Questions-LinkedList](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linkedlist)
+
+
+- ## Day 17 – Scenario Based on OOPs &  Data Structures: Stack, Queue, HashMap & Hashing 
+**Date:** 03-Jan-2026  
+
+- Designed backend logic for CabbyGo ride-hailing app using OOP principles  
+- Implemented inheritance and polymorphism  
+- Learned core concepts of Stack and Queue data structures  
+- Studied HashMap and basics of Hashing Functions  
+- Implemented Stack, Queue, and HashMap operations    
+- **Code Link:** [Advanced Scenario OOP](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-question/ScenarioBasedQuestions/src)
+
+

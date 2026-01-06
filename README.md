@@ -33,3 +33,17 @@
 - Learned Object Diagram representation  
 - Understood basics of Sequence Diagram    
 - **Code Link:** [Object Modeling](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsCocepts/src/com/objectmodelling)
+
+ - ## Day 05 – Inheritance  
+**Date:** 31-Dec-2025  
+
+- Learned the concept of Inheritance in Java  
+- Studied Single Level Inheritance  
+- Understood Multilevel Inheritance  
+- Learned Hierarchical Inheritance    
+- Understood Method Overriding  
+- Learned Constructor behavior in Inheritance  
+- Understood Polymorphism with Inheritance  
+- Studied Access Modifiers and their role in Inheritance  
+- **Code Link:** [Inheritance](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsCocepts/src/com/inheritance)
+

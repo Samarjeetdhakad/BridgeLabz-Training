@@ -23,3 +23,13 @@
 - learned the use of final keyword
 - practiced instanceOf operator
 -**Code Link:** [keywords](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsCocepts/src/com/thisstatic)
+
+  ## Day 4 – Object Modeling & Diagrams  
+**Date:** 30-Dec-2025
+
+- Learned the difference between Classes and Objects in Java  
+- Understood Object Modeling concepts  
+- Studied Class Diagram and its components  
+- Learned Object Diagram representation  
+- Understood basics of Sequence Diagram    
+- **Code Link:** [Object Modeling](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsCocepts/src/com/objectmodelling)

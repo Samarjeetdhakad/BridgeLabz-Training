@@ -90,6 +90,7 @@
 
 - ## Day 10 – Advanced Scenario Based OOP Applications  
 -**Date:** 06-Jan-2026  
+
 -Designed EduMentor learning platform using inheritance, interfaces, and polymorphism
 
 -Implemented FitTrack fitness tracker with secure data handling using encapsulation
@@ -101,5 +102,21 @@
 -Designed PetPal – Virtual Pet Care App using core OOP principles
 
 -Designed EventEase, an event booking and scheduling platform
+
+- **Code Link:** [ Scenario based OOP](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-question/ScenarioBasedQuestions/src)
+
+
+ ## Day 11 – Advanced Scenario Based OOP Applications  
+-**Date:** 07-Jan-2026  
+
+-Designed LoanBuddy, an automated loan approval engine for fintech application
+
+-Used encapsulation and access modifiers to protect credit score and loan status updates
+
+-Designed BookBazaar, an online bookstore backend system
+
+-Used operators to calculate total order cost with discounts
+
+-Designed ParkEase, a real-time smart parking management system
 
 - **Code Link:** [ Scenario based OOP](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-question/ScenarioBasedQuestions/src)

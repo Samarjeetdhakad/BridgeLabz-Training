@@ -76,4 +76,10 @@
 - Used interfaces to abstract core services such as ride booking and banking transactions  
 - **Code Link:** [Advanced Scenario OOP](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-question/ScenarioBasedQuestions/src)
 
-
+- ## Day 09 – Advanced Scenario Based OOP Applications  
+-**Date:** 05-Jan-2026  
+-Designed CampusConnect system using inheritance, interfaces, and polymorphism
+-Implemented secure academic and cart management using encapsulation and access modifiers
+-Applied polymorphism to handle different behaviors for users and product types
+-Used operators and constructors for GPA, billing, and object initialization
+- **Code Link:** [ Campus & SwiftCart OOP](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-question/ScenarioBasedQuestions/src)

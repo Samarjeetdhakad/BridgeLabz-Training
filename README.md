@@ -85,9 +85,12 @@
 - **Code Link:** [ Campus & SwiftCart OOP](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-question/ScenarioBasedQuestions/src)
 
 - ## Day 10 – Advanced Scenario Based OOP Applications  
--**Date:** 05-Jan-2026  
+-**Date:** 06-Jan-2026  
 -Designed EduMentor learning platform using inheritance, interfaces, and polymorphism
 -Implemented FitTrack fitness tracker with secure data handling using encapsulation
 -Applied polymorphism to vary certificate generation and calorie calculation logic
 -Used constructors, operators, and access modifiers for object creation, scoring, and progress tracking
+-Designed PetPal – Virtual Pet Care App using core OOP principles
+-Designed EventEase, an event booking and scheduling platform
+
 - **Code Link:** [ Scenario based OOP](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-question/ScenarioBasedQuestions/src)

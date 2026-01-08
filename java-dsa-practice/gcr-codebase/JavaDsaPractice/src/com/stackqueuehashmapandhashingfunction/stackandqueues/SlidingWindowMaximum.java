@@ -1,0 +1,58 @@
+package com.stackqueuehashmapandhashingfunction.stackandqueues;
+
+import java.util.*;
+
+class SlidingWindowMaximum {
+
+ 
+ public static int[] maxSlidingWindow(int[] nums, int k) {
+        if (nums == null || k <= 0) return new int[0];
+
+        int n = nums.length;
+        int[] result = new int[n - k + 1];
+        Deque<Integer> dq = new LinkedList<>();
+
+        for (int i = 0; i < n; i++) {
+
+            
+            while (!dq.isEmpty() && dq.peekFirst() <= i - k) {
+                dq.pollFirst();
+            }
+
+            
+            while (!dq.isEmpty() && nums[dq.peekLast()] <= nums[i]) {
+                dq.pollLast();
+            }
+
+            dq.offerLast(i);
+
+            
+            if (i >= k - 1) {
+                result[i - k + 1] = nums[dq.peekFirst()];
+            }
+        }
+
+        return result;
+    }
+
+ public static void main(String[] args) {
+	     
+    	 Scanner sc = new Scanner(System.in);
+
+         System.out.print("Enter size of array: ");
+         int n = sc.nextInt();
+
+         int[] nums = new int[n];
+         System.out.println("Enter array elements:");
+         for (int i = 0; i < n; i++) {
+             nums[i] = sc.nextInt();
+         }
+
+         System.out.print("Enter window size k: ");
+         int k = sc.nextInt();
+
+         int[] ans = maxSlidingWindow(nums, k);
+         System.out.println("Sliding Window Maximum:");
+         System.out.println(Arrays.toString(ans));
+    }
+}

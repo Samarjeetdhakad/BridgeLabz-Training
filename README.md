@@ -1,5 +1,7 @@
 # BridgeLabz-Training
 
+#   Week-1: core java practice
+
 ## Day 1 – Git & GitHub Setup  
 **Date:** 16-Dec-2025
 
@@ -106,6 +108,10 @@ BridgeLabz-Training/
 - Learned math.random, math.pow(),etc
 - **Code Link:** [extras](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
 
+
+# week- 2 : object oriented programming
+
+
 -  ## Day 9 - Scenario based questions & OOPs Concept
 **Date:** 26-Dec-2025
 
@@ -195,6 +201,7 @@ BridgeLabz-Training/
 - **Code Link:** [Scenario Based OOP](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-question/ScenarioBasedQuestions/src)
 - **Code Link:** [DSA-Questions-LinkedList](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linkedlist)
 
+# week-3: Data Structure And Algorithm
 
 - ## Day 17 – Scenario Based on OOPs &  Data Structures: Stack, Queue, HashMap & Hashing 
 **Date:** 03-Jan-2026  

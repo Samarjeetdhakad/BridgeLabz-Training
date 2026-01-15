@@ -21,9 +21,18 @@
 
 
 # Day 03 – Sorting Algorithm
-**Date:** 04-Jan-2026
+**Date:** 05-Jan-2026
 
 - implemented bubble sort
 - quick sort, insertion sort
 - merge sort
 - **Code Link:** [Sorting Algorithm](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/sorting)
+
+# Day 04 – Searching and strings
+**Date:** 07-Jan-2026
+
+- Implemented Linear search
+- practiced Binary search
+- Explored StringBuilder & StringBuffer
+- Used FileReader, InputStreamReader, BufferedReader
+- Code Link: [searching,filereader](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/searchingfilereaderstringbuffer)

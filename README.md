@@ -215,3 +215,38 @@ BridgeLabz-Training/
 - **Code Link:** [Advanced Scenario OOP](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-question/ScenarioBasedQuestions/src)
 
 
+## Day 18 – Sorting Algorithm & oops scenario
+**Date:** 05-Jan-2026
+
+- implemented bubble sort
+- quick sort, insertion sort
+- merge sort
+Code Link: [Sorting Algorithm](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/sorting)
+[ Campus & SwiftCart OOP](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-question/ScenarioBasedQuestions/src)
+
+## Day 19 –  oops scenario based
+**Date:** 06-Jan-2026
+- used interfaces
+- made edumentor and fit track questions
+- abstract classes and methods
+- encapsulation and polymorphism
+- applied access modifiers
+
+  code link: [ scenario based](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-question/ScenarioBasedQuestions/src)
+
+## Day 20 – Searching and strings
+**Date:** 07-Jan-2026
+
+- Implemented Linear search
+- practiced Binary search
+- Explored StringBuilder & StringBuffer
+- Used FileReader, InputStreamReader, BufferedReader
+- Code Link:[searching,filereader](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/searchingfilereaderstringbuffer)
+
+- Designed LoanBuddy, an automated loan approval engine for fintech application
+- Designed BookBazaar, an online bookstore backend system
+- Used operators to calculate total order cost with discounts
+- Designed ParkEase, a real-time smart parking management system
+- **Code Link:** [ Scenario based OOP](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-question/ScenarioBasedQuestions/src)
+
+

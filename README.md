@@ -250,3 +250,27 @@ Code Link: [Sorting Algorithm](https://github.com/Samarjeetdhakad/BridgeLabz-Tra
 - **Code Link:** [ Scenario based OOP](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-question/ScenarioBasedQuestions/src)
 
 
+## Day 21 – oops scenario based
+**Date:** 08-Jan-2026
+
+- created medistore & tourmate
+- abstract classes and methods
+- used encapsulation and polymorphism
+- applied access modifiers
+- Code Link: [scenariobased](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-question/ScenarioBasedQuestions/src)
+
+
+ ## Day 22 – Advanced Scenario Based OOP Applications  
+-**Date:** 09-Jan-2026  
+
+- used interfaces
+- created Artify & FoodLoop
+- abstract classes and methods
+- used encapsulation and polymorphism
+- applied access modifiers
+- arrays and arraylist
+
+- **Code Link:** [ Scenario based OOP](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-question/ScenarioBasedQuestions/src)
+
+
+

@@ -120,3 +120,21 @@
 -Designed ParkEase, a real-time smart parking management system
 
 - **Code Link:** [ Scenario based OOP](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-question/ScenarioBasedQuestions/src)
+
+
+ ## Day 12 – Advanced Scenario Based OOP Applications  
+-**Date:** 09-Jan-2026  
+
+used interfaces
+
+created Artify & FoodLoop
+
+abstract classes and methods
+
+used encapsulation and polymorphism
+
+applied access modifiers
+
+arrays and arraylist
+
+- **Code Link:** [ Scenario based OOP](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-question/ScenarioBasedQuestions/src)

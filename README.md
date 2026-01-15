@@ -121,20 +121,37 @@
 
 - **Code Link:** [ Scenario based OOP](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-question/ScenarioBasedQuestions/src)
 
-
  ## Day 12 – Advanced Scenario Based OOP Applications  
--**Date:** 09-Jan-2026  
-
+-**Date:** 08-Jan-2026  
 used interfaces
 
-created Artify & FoodLoop
+- created medistore & tourmate
+- abstract classes and methods
+- used encapsulation and polymorphism
+- applied access modifiers
+- Code Link: [scenariobased](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-question/ScenarioBasedQuestions/src)
 
-abstract classes and methods
+  
+ ## Day 13 – Advanced Scenario Based OOP Applications  
+-**Date:** 09-Jan-2026  
 
-used encapsulation and polymorphism
-
-applied access modifiers
-
-arrays and arraylist
+- used interfaces
+- created Artify & FoodLoop
+- abstract classes and methods
+- used encapsulation and polymorphism
+- applied access modifiers
+- arrays and arraylist
 
 - **Code Link:** [ Scenario based OOP](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-question/ScenarioBasedQuestions/src)
+
+ ## Day 14 – Advanced Scenario Based OOP Applications  
+-**Date:** 13-Jan-2026  
+
+- used interfaces
+- abstract classes and methods
+- used encapsulation and polymorphism
+- applied access modifiers
+- created homenest, budgetwise programs
+- Code Link: [scenariobased](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-question/ScenarioBasedQuestions/src)
+
+

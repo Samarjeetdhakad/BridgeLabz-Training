@@ -189,6 +189,8 @@ BridgeLabz-Training/
 - Applied OOP concepts through practical examples  
 - **Code Link:** [Encapsulation & Polymorphism](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsCocepts/src/com/encapsulationpolymorphisminterfaceandabstract)
 
+# week-3: Data Structure And Algorithm
+
 - ## Day 16 – Scenario Based OOP Problems  &  Data Structures: Introduction & LinkedList 
 **Date:** 02-Jan-2026  
 
@@ -201,7 +203,6 @@ BridgeLabz-Training/
 - **Code Link:** [Scenario Based OOP](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-question/ScenarioBasedQuestions/src)
 - **Code Link:** [DSA-Questions-LinkedList](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linkedlist)
 
-# week-3: Data Structure And Algorithm
 
 - ## Day 17 – Scenario Based on OOPs &  Data Structures: Stack, Queue, HashMap & Hashing 
 **Date:** 03-Jan-2026  

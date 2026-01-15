@@ -26,4 +26,4 @@
 - implemented bubble sort
 - quick sort, insertion sort
 - merge sort
-- - **Code Link:** [Sorting Algorithm](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/sorting)
+- **Code Link:** [Sorting Algorithm](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/sorting)

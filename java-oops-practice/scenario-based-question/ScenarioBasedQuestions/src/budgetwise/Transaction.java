@@ -7,7 +7,7 @@ class Transaction {
     private LocalDate date;
     private String category;
 
-    public Transaction(double amount, String type, LocalDate date, String category) {
+     Transaction(double amount, String type, LocalDate date, String category) {
         this.amount =amount;
         this.type=type;
         this.date=date;

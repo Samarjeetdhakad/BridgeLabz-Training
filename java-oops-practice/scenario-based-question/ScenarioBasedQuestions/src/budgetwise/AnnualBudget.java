@@ -2,7 +2,7 @@ package budgetwise;
 import java.util.Map;
 class AnnualBudget extends Budget implements IAnalyzable {
 
-    public AnnualBudget(double income, Map<String, Double> categoryLimits) {
+     AnnualBudget(double income, Map<String, Double> categoryLimits) {
         super(income, categoryLimits);
     }
 

@@ -36,3 +36,14 @@
 - Explored StringBuilder & StringBuffer
 - Used FileReader, InputStreamReader, BufferedReader
 - Code Link: [searching,filereader](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/searchingfilereaderstringbuffer)
+
+
+# Day 04 –Algorithms Runtime Analysis
+**Date:** 10-Jan-2026
+
+- sorting complexities
+- string, stringbuilder & stringbuffer performance
+- file reading comparison
+- fibonacci performance
+- hashset vs treeset vs array search
+- Code Link: [Algorithm analysis](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/searchcomparision) 

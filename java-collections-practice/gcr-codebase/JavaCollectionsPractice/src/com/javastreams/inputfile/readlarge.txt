@@ -1,0 +1,462 @@
+This is a sample text used for testing large file handling in Java.
+The purpose of this file is to simulate real-world scenarios where
+applications need to process large amounts of data efficiently.
+
+Java InputStream and OutputStream classes are commonly used for reading
+and writing byte data. Buffered streams help improve performance by
+reducing the number of I/O operations. ByteArray streams store data
+temporarily in memory, while file streams interact with the file system.
+
+Multithreading in Java allows multiple threads to run concurrently.
+Threads share memory but have separate execution paths. Proper
+synchronization is required to avoid race conditions and ensure data
+consistency. Piped streams are useful for inter-thread communication.
+
+This text is intentionally repetitive. This text is intentionally
+repetitive. This text is intentionally repetitive. This text is
+intentionally repetitive. This text is intentionally repetitive.
+
+Java is platform independent. Java is platform independent.
+Java is platform independent. Java is platform independent.
+Java is platform independent. Java is platform independent.
+This is a sample text used for testing large file handling in Java.
+The purpose of this file is to simulate real-world scenarios where
+applications need to process large amounts of data efficiently.
+
+Java InputStream and OutputStream classes are commonly used for reading
+and writing byte data. Buffered streams help improve performance by
+reducing the number of I/O operations. ByteArray streams store data
+temporarily in memory, while file streams interact with the file system.
+
+Multithreading in Java allows multiple threads to run concurrently.
+Threads share memory but have separate execution paths. Proper
+synchronization is required to avoid race conditions and ensure data
+consistency. Piped streams are useful for inter-thread communication.
+
+This text is intentionally repetitive. This text is intentionally
+repetitive. This text is intentionally repetitive. This text is
+intentionally repetitive. This text is intentionally repetitive.
+
+Java is platform independent. Java is platform independent.
+Java is platform independent. Java is platform independent.
+Java is platform independent. Java is platform independent.
+This is a sample text used for testing large file handling in Java.
+The purpose of this file is to simulate real-world scenarios where
+applications need to process large amounts of data efficiently.
+
+Java InputStream and OutputStream classes are commonly used for reading
+and writing byte data. Buffered streams help improve performance by
+reducing the number of I/O operations. ByteArray streams store data
+temporarily in memory, while file streams interact with the file system.
+
+Multithreading in Java allows multiple threads to run concurrently.
+Threads share memory but have separate execution paths. Proper
+synchronization is required to avoid race conditions and ensure data
+consistency. Piped streams are useful for inter-thread communication.
+
+This text is intentionally repetitive. This text is intentionally
+repetitive. This text is intentionally repetitive. This text is
+intentionally repetitive. This text is intentionally repetitive.
+
+Java is platform independent. Java is platform independent.
+Java is platform independent. Java is platform independent.
+Java is platform independent. Java is platform independent.
+This is a sample text used for testing large file handling in Java.
+The purpose of this file is to simulate real-world scenarios where
+applications need to process large amounts of data efficiently.
+
+Java InputStream and OutputStream classes are commonly used for reading
+and writing byte data. Buffered streams help improve performance by
+reducing the number of I/O operations. ByteArray streams store data
+temporarily in memory, while file streams interact with the file system.
+
+Multithreading in Java allows multiple threads to run concurrently.
+Threads share memory but have separate execution paths. Proper
+synchronization is required to avoid race conditions and ensure data
+consistency. Piped streams are useful for inter-thread communication.
+
+This text is intentionally repetitive. This text is intentionally
+repetitive. This text is intentionally repetitive. This text is
+intentionally repetitive. This text is intentionally repetitive.
+
+Java is platform independent. Java is platform independent.
+Java is platform independent. Java is platform independent.
+Java is platform independent. Java is platform independent.
+This is a sample text used for testing large file handling in Java.
+The purpose of this file is to simulate real-world scenarios where
+applications need to process large amounts of data efficiently.
+
+Java InputStream and OutputStream classes are commonly used for reading
+and writing byte data. Buffered streams help improve performance by
+reducing the number of I/O operations. ByteArray streams store data
+temporarily in memory, while file streams interact with the file system.
+
+Multithreading in Java allows multiple threads to run concurrently.
+Threads share memory but have separate execution paths. Proper
+synchronization is required to avoid race conditions and ensure data
+consistency. Piped streams are useful for inter-thread communication.
+
+This text is intentionally repetitive. This text is intentionally
+repetitive. This text is intentionally repetitive. This text is
+intentionally repetitive. This text is intentionally repetitive.
+
+Java is platform independent. Java is platform independent.
+Java is platform independent. Java is platform independent.
+Java is platform independent. Java is platform independent.
+This is a sample text used for testing large file handling in Java.
+The purpose of this file is to simulate real-world scenarios where
+applications need to process large amounts of data efficiently.
+
+Java InputStream and OutputStream classes are commonly used for reading
+and writing byte data. Buffered streams help improve performaThis is a sample text used for testing large file handling in Java.
+The purpose of this file is to simulate real-world scenarios where
+applications need to process large amounts of data efficiently.
+
+Java InputStream and OutputStream classes are commonly used for reading
+and writing byte data. Buffered streams help improve performance by
+reducing the number of I/O operations. ByteArray streams store data
+temporarily in memory, while file streams interact with the file system.
+
+Multithreading in Java allows multiple threads to run concurrently.
+Threads share memory but have separate execution paths. Proper
+synchronization is required to avoid race conditions and ensure data
+consistency. Piped streams are useful for inter-thread communication.
+
+This text is intentionally repetitive. This text is intentionally
+repetitive. This text is intentionally repetitive. This text is
+intentionally repetitive. This text is intentionally repetitive.
+
+Java is platform independent. Java is platform independent.
+Java is platform independent. Java is platform independent.
+Java is platform independent. Java is platform independent.
+This is a sample text used for testing large file handling in Java.
+The purpose of this file is to simulate real-world scenarios where
+applications need to process large amounts of data efficiently.
+
+Java InputStream and OutputStream classes are commonly used for reading
+and writing byte data. Buffered streams help improve performance by
+reducing the number of I/O operations. ByteArray streams store data
+temporarily in memory, while file streams interact with the file system.
+
+Multithreading in Java allows multiple threads to run concurrently.
+Threads share memory but have separate execution paths. Proper
+synchronization is required to avoid race conditions and ensure data
+consistency. Piped streams are useful for inter-thread communication.
+
+This text is intentionally repetitive. This text is intentionally
+repetitive. This text is intentionally repetitive. This text is
+intentionally repetitive. This text is intentionally repetitive.
+
+Java is platform independent. Java is platform independent.
+Java is platform independent. Java is platform independent.
+Java is platform independent. Java is platform independent.
+This is a sample text used for testing large file handling in Java.
+The purpose of this file is to simulate real-world scenarios where
+applications need to process large amounts of data efficiently.
+
+Java InputStream and OutputStream classes are commonly used for reading
+and writing byte data. Buffered streams help improve performance by
+reducing the number of I/O operations. ByteArray streams store data
+temporarily in memory, while file streams interact with the file system.
+
+Multithreading in Java allows multiple threads to run concurrently.
+Threads share memory but have separate execution paths. Proper
+synchronization is required to avoid race conditions and ensure data
+consistency. Piped streams are useful for inter-thread communication.
+
+This text is intentionally repetitive. This text is intentionally
+repetitive. This text is intentionally repetitive. This text is
+intentionally repetitive. This text is intentionally repetitive.
+
+Java is platform independent. Java is platform independent.
+Java is platform independent. Java is platform independent.
+Java is platform independent. Java is platform independent.
+This is a sample text used for testing large file handling in Java.
+The purpose of this file is to simulate real-world scenarios where
+applications need to process large amounts of data efficiently.
+
+Java InputStream and OutputStream classes are commonly used for reading
+and writing byte data. Buffered streams help improve performance by
+reducing the number of I/O operations. ByteArray streams store data
+temporarily in memory, while file streams interact with the file system.
+
+Multithreading in Java allows multiple threads to run concurrently.
+Threads share memory but have separate execution paths. Proper
+synchronization is required to avoid race conditions and ensure data
+consistency. Piped streams are useful for inter-thread communication.
+
+This text is intentionally repetitive. This text is intentionally
+repetitive. This text is intentionally repetitive. This text is
+intentionally repetitive. This text is intentionally repetitive.
+
+Java is platform independent. Java is platform independent.
+Java is platform independent. Java is platform independent.
+Java is platform independent. Java is platform independent.
+This is a sample text used for testing large file handling in Java.
+The purpose of this file is to simulate real-world scenarios where
+applications need to process large amounts of data efficiently.
+
+Java InputStream and OutputStream classes are commonly used for reading
+and writing byte data. Buffered streams help improve performance by
+reducing the number of I/O operations. ByteArray streams store data
+temporarily in memory, while file streams interact with the file system.
+
+Multithreading in Java allows multiple threads to run concurrently.
+Threads share memory but have separate execution paths. Proper
+synchronization is required to avoid race conditions and ensure data
+consistency. Piped streams are useful for inter-thread communication.
+
+This text is intentionally repetitive. This text is intentionally
+repetitive. This text is intentionally repetitive. This text is
+intentionally repetitive. This text is intentionally repetitive.
+
+Java is platform independent. Java is platform independent.
+Java is platform independent. Java is platform independent.
+Java is platform independent. Java is platform independent.
+This is a sample text used for testing large file handling in Java.
+The purpose of this file is to simulate real-world scenarios where
+applications need to process large amounts of data efficiently.
+
+Java InputStream and OutputStream classes are commonly used for reading
+and writing byte data. Buffered streams help improve performance by
+reducing the number of I/O operations. ByteArray streams store data
+temporarily in memory, while file streams interact with the file system.
+
+Multithreading in Java allows multiple threads to run concurrently.
+Threads share memory but have separate execution paths. Proper
+synchronization is required to avoid race conditions and ensure data
+consistency. Piped streams are useful for inter-thread communication.
+
+This text is intentionally repetitive. This text is intentionally
+repetitive. This text is intentionally repetitive. This text is
+intentionally repetitive. This text is intentionally repetitive.
+
+Java is platform independent. Java is platform independent.
+Java is platform independent. Java is platform independent.
+Java is platform independent. Java is platform independent.
+This is a sample text used for testing large file handling in Java.
+The purpose of this file is to simulate real-world scenarios where
+applications need to process large amounts of data efficiently.
+
+Java InputStream and OutputStream classes are commonly used for reading
+and writing byte data. Buffered streams help improve performance by
+reducing the number of I/O operations. ByteArray streams store data
+temporarily in memory, while file streams interact with the file system.
+
+Multithreading in Java allows multiple threads to run concurrently.
+Threads share memory but have separate execution paths. Proper
+synchronization is required to avoid race conditions and ensure data
+consistency. Piped streams are useful for inter-thread communication.
+
+This text is intentionally repetitive. This text is intentionally
+repetitive. This text is intentionally repetitive. This text is
+intentionally repetitive. This text is intentionally repetitive.
+
+Java is platform independent. Java is platform independent.
+Java is platform independent. Java is platform independent.
+Java is platform independent. Java is platform independent.
+This is a sample text used for testing large file handling in Java.
+The purpose of this file is to simulate real-world scenarios where
+applications need to process large amounts of data efficiently.
+
+Java InputStream and OutputStream classes are commonly used for reading
+and writing byte data. Buffered streams help improve performance by
+reducing the number of I/O operations. ByteArray streams store data
+temporarily in memory, while file streams interact with the file system.
+
+Multithreading in Java allows multiple threads to run concurrently.
+Threads share memory but have separate execution paths. Proper
+synchronization is required to avoid race conditions and ensure data
+consistency. Piped streams are useful for inter-thread communication.
+
+This text is intentionally repetitive. This text is intentionally
+repetitive. This text is intentionally repetitive. This text is
+intentionally repetitive. This text is intentionally repetitive.
+
+Java is platform independent. Java is platform independent.
+Java is platform independent. Java is platform independent.
+Java is platform independent. Java is platform independent.
+This is a sample text used for testing large file handling in Java.
+The purpose of this file is to simulate real-world scenarios where
+applications need to process large amounts of data efficiently.
+
+Java InputStream and OutputStream classes are commonly used for reading
+and writing byte data. Buffered streams help improve performance by
+reducing the number of I/O operations. ByteArray streams store data
+temporarily in memory, while file streams interact with the file system.
+
+Multithreading in Java allows multiple threads to run concurrently.
+Threads share memory but have separate execution paths. Proper
+synchronization is required to avoid race conditions and ensure data
+consistency. Piped streams are useful for inter-thread communication.
+
+This text is intentionally repetitive. This text is intentionally
+repetitive. This text is intentionally repetitive. This text is
+intentionally repetitive. This text is intentionally repetitive.
+
+Java is platform independent. Java is platform independent.
+Java is platform independent. Java is platform independent.
+Java is platform independent. Java is platform independent.
+This is a sample text used for testing large file handling in Java.
+The purpose of this file is to simulate real-world scenarios where
+applications need to process large amounts of data efficiently.
+
+Java InputStream and OutputStream classes are commonly used for reading
+and writing byte data. Buffered streams help improve performance by
+reducing the number of I/O operations. ByteArray streams store data
+temporarily in memory, while file streams interact with the file system.
+
+Multithreading in Java allows multiple threads to run concurrently.
+Threads share memory but have separate execution paths. Proper
+synchronization is required to avoid race conditions and ensure data
+consistency. Piped streams are useful for inter-thread communication.
+
+This text is intentionally repetitive. This text is intentionally
+repetitive. This text is intentionally repetitive. This text is
+intentionally repetitive. This text is intentionally repetitive.
+
+Java is platform independent. Java is platform independent.
+Java is platform independent. Java is platform independent.
+Java is platform independent. Java is platform independent.
+This is a sample text used for testing large file handling in Java.
+The purpose of this file is to simulate real-world scenarios where
+applications need to process large amounts of data efficiently.
+
+Java InputStream and OutputStream classes are commonly used for reading
+and writing byte data. Buffered streams help improve performance by
+reducing the number of I/O operations. ByteArray streams store data
+temporarily in memory, while file streams interact with the file system.
+
+Multithreading in Java allows multiple threads to run concurrently.
+Threads share memory but have separate execution paths. Proper
+synchronization is required to avoid race conditions and ensure data
+consistency. Piped streams are useful for inter-thread communication.
+
+This text is intentionally repetitive. This text is intentionally
+repetitive. This text is intentionally repetitive. This text is
+intentionally repetitive. This text is intentionally repetitive.
+
+Java is platform independent. Java is platform independent.
+Java is platform independent. Java is platform independent.
+Java is platform independent. Java is platform independent.
+This is a sample text used for testing large file handling in Java.
+The purpose of this file is to simulate real-world scenarios where
+applications need to process large amounts of data efficiently.
+
+Java InputStream and OutputStream classes are commonly used for reading
+and writing byte data. Buffered streams help improve performance by
+reducing the number of I/O operations. ByteArray streams store data
+temporarily in memory, while file streams interact with the file system.
+
+Multithreading in Java allows multiple threads to run concurrently.
+Threads share memory but have separate execution paths. Proper
+synchronization is required to avoid race conditions and ensure data
+consistency. Piped streams are useful for inter-thread communication.
+
+This text is intentionally repetitive. This text is intentionally
+repetitive. This text is intentionally repetitive. This text is
+intentionally repetitive. This text is intentionally repetitive.
+
+Java is platform independent. Java is platform independent.
+Java is platform independent. Java is platform independent.
+Java is platform independent. Java is platform independent.
+This is a sample text used for testing large file handling in Java.
+The purpose of this file is to simulate real-world scenarios where
+applications need to process large amounts of data efficiently.
+
+Java InputStream and OutputStream classes are commonly used for reading
+and writing byte data. Buffered streams help improve performaThis is a sample text used for testing large file handling in Java.
+The purpose of this file is to simulate real-world scenarios where
+applications need to process large amounts of data efficiently.
+
+Java InputStream and OutputStream classes are commonly used for reading
+and writing byte data. Buffered streams help improve performance by
+reducing the number of I/O operations. ByteArray streams store data
+temporarily in memory, while file streams interact with the file system.
+
+Multithreading in Java allows multiple threads to run concurrently.
+Threads share memory but have separate execution paths. Proper
+synchronization is required to avoid race conditions and ensure data
+consistency. Piped streams are useful for inter-thread communication.
+
+This text is intentionally repetitive. This text is intentionally
+repetitive. This text is intentionally repetitive. This text is
+intentionally repetitive. This text is intentionally repetitive.
+
+Java is platform independent. Java is platform independent.
+Java is platform independent. Java is platform independent.
+Java is platform independent. Java is platform independent.
+This is a sample text used for testing large file handling in Java.
+The purpose of this file is to simulate real-world scenarios where
+applications need to process large amounts of data efficiently.
+
+Java InputStream and OutputStream classes are commonly used for reading
+and writing byte data. Buffered streams help improve performance by
+reducing the number of I/O operations. ByteArray streams store data
+temporarily in memory, while file streams interact with the file system.
+
+Multithreading in Java allows multiple threads to run concurrently.
+Threads share memory but have separate execution paths. Proper
+synchronization is required to avoid race conditions and ensure data
+consistency. Piped streams are useful for inter-thread communication.
+
+This text is intentionally repetitive. This text is intentionally
+repetitive. This text is intentionally repetitive. This text is error is me 
+intentionally repetitive. This text is intentionally repetitive.
+
+Java is platform independent. Java is platform independent.
+Java is platform independent. Java is platform independent.
+Java is platform independent. Java is platform independent.
+This is a sample text used for testing large file handling in Java.
+The purpose of this file is to simulate real-world scenarios where
+applications need to process large amounts of data efficiently.
+
+Java InputStream and OutputStream classes are commonly used for reading
+and writing byte data. Buffered streams help improve performance by
+reducing the number of I/O operations. ByteArray streams store data
+temporarily in memory, while file streams interact with the file system.
+error 
+Multithreading in Java allows multiple threads to run concurrently.
+Threads share memory but have separate execution paths. Proper
+synchronization is required to avoid race conditions and ensure data
+consistency. Piped streams are useful for inter-thread communication.
+
+This text is intentionally repetitive. This text is intentionally
+repetitive. This text is intentionally repetitive. This text is
+intentionally repetitive. This text is intentionally repetitive.
+
+Java is platform independent. Java is platform independent.
+Java is platform independent. Java is platform independent.
+Java is platform independent. Java is platform independent.
+nce by
+reducing the number of I/O operations. ByteArray streams store data
+temporarily in memory, while file streams interact with the file system.
+
+Multithreading in Java allows multiple threads to run concurrently.
+Threads share memory but have separate execution paths. Proper
+synchronization is required to avoid race conditions and ensure data
+consistency. Piped streams are useful for inter-thread communication.
+
+This text is intentionally repetitive. This text is intentionally
+repetitive. This text is intentionally repetitive. This text is
+intentionally repetitive. This text is intentionally repetitive.
+
+Java is platform independent. Java is platform independent.
+Java is platform independent. Java is platform independent.
+Java is platform independent. Java is platform independent.
+nce by
+reducing the number of I/O operations. ByteArray streams store data
+temporarily in memory, while file streams interact with the file system.
+
+Multithreading in Java allows multiple threads to run concurrently.
+Threads share memory but have separate execution paths. Proper
+synchronization is required to avoid race conditions and ensure data
+consistency. Piped streams are useful for inter-thread communication.
+
+This text is intentionally repetitive. This text is intentionally
+repetitive. This text is intentionally repetitive. This text is
+intentionally repetitive. This text is intentionally repetitive.
+
+Java is platform independent. Java is platform independent.
+Java is platform independent. Java is platform independent.
+Java is platform independent. Java is platform independent.

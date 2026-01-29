@@ -47,3 +47,15 @@
 - fibonacci performance
 - hashset vs treeset vs array search
 - Code Link: [Algorithm analysis](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/searchcomparision) 
+
+
+# Day 05 – DSA Scenariobased
+**Date:** 10-Jan-2026
+
+- used hashmap, linkedlist
+- used doubly linkedlist , stack
+- created BookShelf – Library Organize
+- Supports adding, removing, and searching books within genres
+- created BrowserBuddy – Tab History Manager
+- Restore recently closed tabs using a Stack -Code Link:  [DSAscenariobased](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/DsaScenarioPractice/src) 
+

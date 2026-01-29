@@ -68,11 +68,18 @@
 - used queue and priority queue -Code Link: [DSAscenariobased](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/DsaScenarioPractice/src) 
 
 
-# Day 06 – DSA Scenariobased
-**Date:** 12-Jan-2026
+# Day 07 – DSA Scenariobased
+**Date:** 13-Jan-2026
 
 - used hashmap, linkedlist
 - used doubly linkedlist , stack
 - used queue and priority queue
 - practiced circular linkedlist -Code Link: [DSAscenariobased](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/DsaScenarioPractice/src) 
 
+
+# Day 08 – DSA Scenariobased
+**Date:** 15-Jan-2026
+
+- used bubble sort small datasets
+- used insertion sort for partially sorted data
+- used merge sort for high performance sorting for large datasets  -Code Link: [DSAscenariobased](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/DsaScenarioPractice/src) 

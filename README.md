@@ -82,4 +82,13 @@
 
 - used bubble sort small datasets
 - used insertion sort for partially sorted data
-- used merge sort for high performance sorting for large datasets  -Code Link: [DSAscenariobased](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/DsaScenarioPractice/src) 
+- used merge sort for high performance sorting for large datasets  -Code Link: [DSAscenariobased](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/DsaScenarioPractice/src)
+
+
+# Day 09 – DSA Scenariobased
+**Date:** 16-Jan-2026
+
+- EventManager – Ticket Price Optimizer (using Quick Sort)
+- ExamCell – Student Rank Generator ( using Merge Sort)
+- CinemaHouse – Movie Time Sorting (using Bubble Sort)
+- Code Link: [DSAscenariobased](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/DsaScenarioPractice/src)

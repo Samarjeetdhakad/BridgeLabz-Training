@@ -101,3 +101,11 @@
 - FleetManager – Vehicle Maintenance Scheduler (using Merge Sort)
 - SmartLibrary – Auto-Sort Borrowed Books (using Insertion Sort)
 - Code Link: [DSAscenariobased](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/DsaScenarioPractice/src)
+
+
+# Day 11 – DSA Scenariobased
+**Date:** 20-Jan-2026
+
+- EduResults – Rank Sheet Generator (Merge Sort)
+- FlashDealz – Product Sorting by Discount (Quick Sort)
+- FitnessTracker – Daily Step Count Ranking (Bubble Sort) 

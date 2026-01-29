@@ -66,3 +66,13 @@
 - used hashmap, linkedlist
 - used doubly linkedlist , stack
 - used queue and priority queue -Code Link: [DSAscenariobased](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/DsaScenarioPractice/src) 
+
+
+# Day 06 – DSA Scenariobased
+**Date:** 12-Jan-2026
+
+- used hashmap, linkedlist
+- used doubly linkedlist , stack
+- used queue and priority queue
+- practiced circular linkedlist -Code Link: [DSAscenariobased](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/DsaScenarioPractice/src) 
+

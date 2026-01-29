@@ -92,3 +92,12 @@
 - ExamCell – Student Rank Generator ( using Merge Sort)
 - CinemaHouse – Movie Time Sorting (using Bubble Sort)
 - Code Link: [DSAscenariobased](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/DsaScenarioPractice/src)
+
+
+# Day 10 – DSA Scenariobased
+**Date:** 17-Jan-2026
+
+- ArtExpo – Sort Artists by Registration Time (using Insertion Sort)
+- FleetManager – Vehicle Maintenance Scheduler (using Merge Sort)
+- SmartLibrary – Auto-Sort Borrowed Books (using Insertion Sort)
+- Code Link: [DSAscenariobased](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/DsaScenarioPractice/src)

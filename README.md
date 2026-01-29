@@ -109,3 +109,11 @@
 - EduResults – Rank Sheet Generator (Merge Sort)
 - FlashDealz – Product Sorting by Discount (Quick Sort)
 - FitnessTracker – Daily Step Count Ranking (Bubble Sort) 
+
+
+# Day 11 – DSA Scenariobased
+**Date:** 20-Jan-2026
+
+- MovieTime – Theater Show Listings (Insertion Sort)
+- FoodFest – Sorting Stalls by Customer Footfall (Merge Sort)
+- GamerZone – High Score Ranking System (Quick Sort) 

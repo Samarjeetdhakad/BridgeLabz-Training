@@ -13,7 +13,6 @@ public class FilterRecords {
 	            System.out.println("Students scoring more than 80:\n");
 	            while ((line = br.readLine()) != null) {
 	                String[] data = line.split(",");
-
 	                int id=Integer.parseInt(data[0]);
 	                String name=data[1];
 	                int age=Integer.parseInt(data[2]);

@@ -1,0 +1,12 @@
+{
+  "id": 101,
+  "name": "Priyanshu Mishra",
+  "age": 24,
+  "email": "priyanshu@example.com",
+  "skills": ["Java", "DSA", "JSON"],
+  "active": true,
+  "address": {
+    "city": "Delhi",
+    "country": "India"
+  }
+}

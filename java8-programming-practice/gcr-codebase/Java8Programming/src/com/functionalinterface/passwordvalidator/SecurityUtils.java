@@ -1,6 +1,6 @@
 package com.functionalinterface.passwordvalidator;
 
-	interface SecurityUtils {
+interface SecurityUtils {
 	    static boolean isStrongPassword(String password) {
 	        if (password == null) {
 	            return false;

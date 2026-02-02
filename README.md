@@ -273,4 +273,16 @@ Code Link: [Sorting Algorithm](https://github.com/Samarjeetdhakad/BridgeLabz-Tra
 - **Code Link:** [ Scenario based OOP](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-question/ScenarioBasedQuestions/src)
 
 
+## Day 23 – Advanced Scenario Based OOP Applications  
+-**Date:** 10-Jan-2026  
+
+ - used hashmap, linkedlist
+ - used doubly linkedlist , stack
+ - created BookShelf – Library Organize
+ - Supports adding, removing, and searching books within genres
+- created BrowserBuddy – Tab History Manager
+- Restore recently closed tabs using a Stack [ algorithm analysis](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/searchcomparision)
+
+
+
 

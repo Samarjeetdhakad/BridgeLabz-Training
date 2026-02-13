@@ -1,0 +1,108 @@
+create database Employee;
+
+use employee;
+
+CREATE TABLE employee (
+    emp_id INT PRIMARY KEY AUTO_INCREMENT,
+    name VARCHAR(100) NOT NULL,
+    salary DECIMAL(10,2) NOT NULL,
+    department VARCHAR(50)
+);
+
+SHOW TABLES;
++--------------------+
+| Tables_in_employee |
++--------------------+
+| employee           |
++--------------------+
+
+INSERT INTO employee (name, salary, department)
+VALUES ('Rahul Sharma', 45000, 'IT');
+
+SELECT * FROM employee;
++--------+--------------+----------+------------+
+| emp_id | name         | salary   | department |
++--------+--------------+----------+------------+
+|      1 | Rahul Sharma | 45000.00 | IT         |
++--------+--------------+----------+------------+
+
+INSERT INTO employee (name, salary, department) VALUES
+('Rahul Sharma', 45000, 'IT'),
+('Anita Verma', 55000, 'HR'),
+('Amit Kumar', 60000, 'Finance'),
+('Priya Singh', 52000, 'IT'),
+('Rohit Mehta', 48000, 'Sales'),
+('Neha Gupta', 51000, 'HR'),
+('Suresh Rao', 70000, 'Finance'),
+('Pooja Nair', 65000, 'IT'),
+('Karan Malhotra', 58000, 'Marketing'),
+('Sneha Iyer', 62000, 'Sales');
+
+
+SELECT * FROM employee;
++--------+----------------+----------+------------+
+| emp_id | name           | salary   | department |
++--------+----------------+----------+------------+
+|      1 | Rahul Sharma   | 45000.00 | IT         |
+|      2 | Rahul Sharma   | 45000.00 | IT         |
+|      3 | Anita Verma    | 55000.00 | HR         |
+|      4 | Amit Kumar     | 60000.00 | Finance    |
+|      5 | Priya Singh    | 52000.00 | IT         |
+|      6 | Rohit Mehta    | 48000.00 | Sales      |
+|      7 | Neha Gupta     | 51000.00 | HR         |
+|      8 | Suresh Rao     | 70000.00 | Finance    |
+|      9 | Pooja Nair     | 65000.00 | IT         |
+|     10 | Karan Malhotra | 58000.00 | Marketing  |
+|     11 | Sneha Iyer     | 62000.00 | Sales      |
++--------+----------------+----------+------------+
+
+UPDATE employee
+SET salary = 65000
+WHERE emp_id = 1;
+
+
+SELECT * FROM employee;
++--------+----------------+----------+------------+
+| emp_id | name           | salary   | department |
++--------+----------------+----------+------------+
+|      1 | Rahul Sharma   | 65000.00 | IT         |
+|      2 | Rahul Sharma   | 45000.00 | IT         |
+|      3 | Anita Verma    | 55000.00 | HR         |
+|      4 | Amit Kumar     | 60000.00 | Finance    |
+|      5 | Priya Singh    | 52000.00 | IT         |
+|      6 | Rohit Mehta    | 48000.00 | Sales      |
+|      7 | Neha Gupta     | 51000.00 | HR         |
+|      8 | Suresh Rao     | 70000.00 | Finance    |
+|      9 | Pooja Nair     | 65000.00 | IT         |
+|     10 | Karan Malhotra | 58000.00 | Marketing  |
+|     11 | Sneha Iyer     | 62000.00 | Sales      |
++--------+----------------+----------+------------+
+
+DELETE FROM employee
+WHERE emp_id = 3;
+
+SELECT * FROM employee;
++--------+----------------+----------+------------+
+| emp_id | name           | salary   | department |
++--------+----------------+----------+------------+
+|      1 | Rahul Sharma   | 65000.00 | IT         |
+|      2 | Rahul Sharma   | 45000.00 | IT         |
+|      4 | Amit Kumar     | 60000.00 | Finance    |
+|      5 | Priya Singh    | 52000.00 | IT         |
+|      6 | Rohit Mehta    | 48000.00 | Sales      |
+|      7 | Neha Gupta     | 51000.00 | HR         |
+|      8 | Suresh Rao     | 70000.00 | Finance    |
+|      9 | Pooja Nair     | 65000.00 | IT         |
+|     10 | Karan Malhotra | 58000.00 | Marketing  |
+|     11 | Sneha Iyer     | 62000.00 | Sales      |
++--------+----------------+----------+------------+
+
+SELECT * 
+FROM employee 
+WHERE name = 'Rahul Sharma';
+
++--------+-------------+----------+------------+
+| emp_id | name        | salary   | department |
++--------+-------------+----------+------------+
+|      2 | Sunny Singh | 50000.00 | IT         |
++--------+-------------+----------+------------+

@@ -1,0 +1,103 @@
+create database Transactions_Management;
+
+use Transactions_Management;
+
+
+CREATE TABLE account (
+    account_id INT PRIMARY KEY AUTO_INCREMENT,
+    customer_name VARCHAR(100) NOT NULL,
+    balance DECIMAL(10,2) NOT NULL
+);
+
+
+ show tables;
+ +-----------------------------------+
+| Tables_in_transactions_management |
++-----------------------------------+
+| account                           |
++-----------------------------------+
+
+
+CREATE TABLE transaction_history (
+    txn_id INT PRIMARY KEY AUTO_INCREMENT,
+    from_account INT,
+    to_account INT,
+    amount DECIMAL(10,2),
+    txn_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    status VARCHAR(20)
+);
+
+show tables;
+
++-----------------------------------+
+| Tables_in_transactions_management |
++-----------------------------------+
+| account                           |
+| transaction_history               |
++-----------------------------------+
+
+
+INSERT INTO account (customer_name, balance) VALUES
+('Rahul Sharma', 50000),
+('Anita Verma', 30000),
+('Amit Kumar', 40000);
+
+show tables;
++-----------------------------------+
+| Tables_in_transactions_management |
++-----------------------------------+
+| account                           |
+| transaction_history               |
++-----------------------------------+
+
+SELECT account_id, customer_name, balance
+FROM account
+WHERE account_id = 1;
++------------+---------------+----------+
+| account_id | customer_name | balance  |
++------------+---------------+----------+
+|          1 | Rahul Sharma  | 50000.00 |
++------------+---------------+----------+
+
+START TRANSACTION;
+
+
+UPDATE account
+SET balance = balance - 5000
+WHERE account_id = 1 AND balance >= 5000;
+
+UPDATE account
+SET balance = balance + 5000
+WHERE account_id = 2;
+
+INSERT INTO transaction_history (from_account, to_account, amount, status)
+VALUES (1, 2, 5000, 'SUCCESS');
+
+
+COMMIT;
+
+
+select * from account;
++------------+---------------+----------+
+| account_id | customer_name | balance  |
++------------+---------------+----------+
+|          1 | Rahul Sharma  | 45000.00 |
+|          2 | Anita Verma   | 35000.00 |
+|          3 | Amit Kumar    | 40000.00 |
++------------+---------------+----------+
+
+
+SELECT * FROM transaction_history;
++--------+--------------+------------+---------+---------------------+---------+
+| txn_id | from_account | to_account | amount  | txn_date            | status  |
++--------+--------------+------------+---------+---------------------+---------+
+|      1 |            1 |          2 | 5000.00 | 2026-02-09 14:48:47 | SUCCESS |
++--------+--------------+------------+---------+---------------------+---------+
+
+SELECT * FROM transaction_history
+    	WHERE from_account = 1 OR to_account = 1;
++--------+--------------+------------+---------+---------------------+---------+
+| txn_id | from_account | to_account | amount  | txn_date            | status  |
++--------+--------------+------------+---------+---------------------+---------+
+|      1 |            1 |          2 | 5000.00 | 2026-02-09 14:48:47 | SUCCESS |
++--------+--------------+------------+---------+------

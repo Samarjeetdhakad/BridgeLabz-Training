@@ -284,5 +284,477 @@ Code Link: [Sorting Algorithm](https://github.com/Samarjeetdhakad/BridgeLabz-Tra
 - Restore recently closed tabs using a Stack [ algorithm analysis](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/searchcomparision)
 
 
+## Day 24 –  Scenario-Based Programs in Dsa
+**Date :** 11-Jan-2026
 
+- Practiced **scenario-based problems** using core **Data Structures**
+- Applied **Linked List, Stack, Queue, HashMap, Set**
+- **BrowserBuddy**
+- **AmbulanceRoute**
+
+
+## Day 25 –  Scenario-Based Programs in Dsa
+**Date :** 12-Jan-2026
+- TextEditor  – Undo/Redo Functionality
+- TrainCompanion – Compartment Navigation System
+- CallCenter - Customer Queue Manager
+- TrafficManager – Roundabout Vehicle Flow
+- **Code Link :**[scenario - Based](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/DsaScenarioPractice/src)
+
+## Scenario-Based Programs in Oops
+- HomeNest – Smart Home Device Manager
+- BudgetWise – Personal Finance Tracker
+
+## Day 26 - Scenario -Based programs in Dsa
+**Date :** 13-Jan-2026
+- SmartCheckout – Supermarket Billing Queue
+- ParcelTracker – Delivery Chain Management
+- ExamProctor – Online Exam Review System
+- Using linkedlist, Queue stack and hashmap
+- **Code Link :**[scenario - Based](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/DsaScenarioPractice/src)
+
+## Day 27 Scenario - Based Program in Sorting
+**Date :** 15-Jan-2026
+ - HospitalQueue – Patient Sorting by Criticality (using Bubble Sort).
+ - SmartShelf – Real-Time Book Arrangement (Insertion Sort).
+ - ZipZipMart – Daily Sales Summary Report (Merge Sort).
+ - **Code Link :**[scenario - Based](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/DsaScenarioPractice/src)
+ 
+### Week 4 – Java Collections
+
+###  Topics Covered
+- Introduction to Java Generics
+- Introduction to Generics
+- Type Parameters
+- Generic Classes
+- Generic Methods
+- Bounded Type Parameters
+- Wildcards
+- Solve practice on these topic
+- Smart Warehouse Management System
+- Dynamic Online Marketplace
+- Multi-Level University Course Management System
+- Personalized Meal Plan Generator
+- AI-Driven Resume Screening System
+
+**Code Link :**[Generics](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/generics)
+
+## _Dsa Scenario-Based_ 
+- EduResults – Rank Sheet Generator (Merge Sort)
+- FlashDealz – Product Sorting by Discount (Quick Sort)
+- FitnessTracker – Daily Step Count Ranking (Bubble Sort)
+- **Code Link :**[scenario - Based](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/DsaScenarioPractice/src)
+- 
+
+
+## Day 28 Scenario - Based Program in Sorting
+**Date :** 16-Jan-2026
+ - EventManager – Ticket Price Optimizer (using Quick Sort)
+ - ExamCell – Student Rank Generator ( using Merge Sort)
+ - RoboWarehouse – Shelf Loading Robot (using Insertion Sort)
+ - CinemaHouse – Movie Time Sorting (using Bubble Sort)
+ - CropMonitor – Sensor Data Ordering (using Quick Sort)
+ - **Code Link :**[scenario - Based](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/DsaScenarioPractice/src)
+
+ - ## Collections part 
+ - Overview of Collections Framework
+ - What is the Collections Framework?
+ - Hierarchy of Collections Framework
+ - List Interface and Implementing Classes
+ - Set Interface and Implementing Classes
+ - Queue and Deque Interfaces
+ - Map Interface and Its Implementations
+ - Comparison of Different Implementations
+ - Real-World Use Cases and Best Practices.
+  
+
+## Day 29 Scenario - Based Program in Sorting
+**Date :** 17-Jan-2026
+ - ArtExpo – Sort Artists by Registration Time (using Insertion Sort)
+ - FleetManager – Vehicle Maintenance Scheduler (using Merge Sort)
+ - IceCreamRush – Sorting Flavors by Popularity (using Bubble Sort)
+ - SmartLibrary – Auto-Sort Borrowed Books (using Insertion Sort)
+ - **Code Link :**[scenario - Based](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/DsaScenarioPractice/src)
+
+---
+
+# Week 4 – Day 30: Java Collections
+**Date :** 19-January-2026  
+
+###  Topics Covered
+- Java I/O Streams
+- Types of Streams
+- 1. File Streams
+- 2. Object Streams
+- 3. ByteArray Streams
+- 4. Buffered Streams
+- 5. Reader and Writer
+- Key Considerations
+- Best Practices
+**Code Link :**[Collections](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com)
+## _Dsa Scenario-Based_ 
+- EduResults – Rank Sheet Generator (Merge Sort)
+- FlashDealz – Product Sorting by Discount (Quick Sort)
+- FitnessTracker – Daily Step Count Ranking (Bubble Sort)
+- **Code Link :**[scenario - Based]()
+- 
+
+## Day 31 Scenario - Based Program in Sorting 
+**Date :** 20-Jan-2026
+- MovieTime – Theater Show Listings (Insertion Sort)
+- FoodFest – Sorting Stalls by Customer Footfall (Merge Sort)
+- GamerZone – High Score Ranking System (Quick Sort)
+ - **Code Link :**[scenario - Based](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/DsaScenarioPractice/src)
+
+- ## Exceptions 
+- Types of Exceptions
+- Checked Exceptions,
+- Unchecked Exceptions
+- Custom Exceptions
+- Handling Exceptions 
+- try-catch blocks
+- try-catch-finally blocks
+- try-with-resources statement
+- throws clause
+- throw statement
+- Creating Custom Exceptions
+- Extending Exception Class
+- Defining Constructors
+
+  
+## Day 32  Regex and junit
+**Date :** 21-Jan-2026
+**Regex** 
+- MetaCharacter
+- Quantifier
+- Common Patterns:
+-  Email Validation
+-  Password Strength
+- Phone Number Format 
+- Java Regex API 
+- Pattern
+- Matcher
+- Methods:
+
+- ## Day 33 - Introduction to Annotations and Reflection
+**Date :** 22-Jan-2026
+
+- Common Built-in Annotations
+- Creating Custom Annotations
+- Advanced Custom Annotations
+- Real-World Use Cases
+- Annotation Processing Tools
+
+## Reflection
+- Understanding of Reflection
+- Using Reflection in Java
+- Annotations and Reflection
+
+
+### Week 5 – IO programming
+
+- ## Day 34 - CSV Data Handling 
+- **Date :** 23-Jan-2026
+  
+- Introduction to CSV
+- Reading CSV Files
+- Writing CSV Files
+- Parsing CSV Data
+- Data Validation
+
+
+ ## Day 35 -JSON DATA 
+- **Date :** 24-Jan-2026
+  
+- Introduction to JSON
+- Reading JSON Data
+- Writing JSON Data
+- Parsing JSON Data
+- JSON Schema Validation
+
+
+### Week 6 – Java 8
+-  ## Day 36 - Java 8 lambda Expression 
+- **Date :** 27-Jan-2026
+
+- Lambda Expressions
+- Method References
+
+## Day 37 -Functional Interface
+- **Date :** 28-Jan-2026
+- 1. Defining and Implementing Interfaces (Best Practices)
+- 2. Functional Interfaces
+- 3. Default and Static Methods in Interfaces
+- 4. Marker Interfaces
+
+
+ ## Day 38 - Stream api
+- Intermediate operations: filter, map, flatMap, distinct, sorted, peek, limit, skip. 
+- Terminal operations: collect, forEach, reduce, count, anyMatch, allMatch, noneMatch. 
+- Stateless vs stateful operations: filter is stateless; sorted and distinct are stateful.
+- Ordered vs unordered streams
+- Parallel streams
+- forEach() — Iterable vs Stream
+  
+
+
+
+# Week 7 – Software Design Pettern Principles
+##  Day 39: Introduction to Design Principles
+**Date:** 1 February 2026
+
+## Section A
+
+###  Topics Covered
+
+**SOLID Principles**
+1. Single Responsibility Principle (SRP)  
+2. Open/Closed Principle (OCP)  
+3. Liskov Substitution Principle (LSP)  
+4. Interface Segregation Principle (ISP)  
+5. Dependency Inversion Principle (DIP)  
+
+**General Design Principles**
+6. Don't Repeat Yourself (DRY)  
+7. Keep It Simple, Stupid (KISS)  
+8. You Aren't Gonna Need It (YAGNI)  
+
+
+###  Overview
+Design principles provide guidelines for writing clean, maintainable, scalable, and
+extensible software. Following these principles reduces tight coupling, improves code
+readability, and simplifies future enhancements.
+
+
+###  Why Design Principles Matter
+- Improve maintainability and scalability
+- Reduce code duplication and complexity
+- Encourage loose coupling and high cohesion
+- Make systems easier to extend and test
+
+
+---
+
+
+##  Day 40: Introduction to GoF Design Patterns & UML Designing
+**Date:** 2 February 2026
+
+###  Topics Covered
+
+**Introduction to GoF Design Patterns**
+- What are Design Patterns
+- Gang of Four (GoF) Overview
+- Purpose and Benefits of Design Patterns
+
+**Categories of GoF Design Patterns**
+- Creational Patterns
+- Structural Patterns
+- Behavioral Patterns
+
+
+
+###  Design Patterns Studied
+
+1. **Singleton Pattern**  
+- Ensures only one instance of a class exists
+- Provides a global point of access
+
+2. **Factory Pattern**  
+- Creates objects without exposing instantiation logic
+- Promotes loose coupling
+
+3. **Observer Pattern**  
+- Defines one-to-many dependency between objects
+- Automatically notifies observers on state change
+
+4. **Builder Pattern**  
+- Separates object construction from representation
+- Useful for creating complex objects step by step
+
+
+
+###  UML Designing
+- Class Diagrams for design pattern representation
+- Identifying relationships: association, inheritance, dependency
+- Visualizing object interactions and responsibilities
+
+
+
+###  Why Use Design Patterns?
+- Reusable and proven solutions
+- Improves code flexibility and maintainability
+- Encourages best practices in software design
+- Makes systems easier to understand and extend
+
+
+###  Questions Practice
+
+1. Smart University Library Management System
+2. Library Management System (LMS) with GoF Patterns
+---
+
+
+
+##  Day 41: Introduction to Java Multithreading
+
+
+###  Core Concepts
+
+**Process**
+- A process is an independent program execution with its own memory space.
+- A process can contain multiple threads.
+- It remains alive until all non-daemon threads finish execution.
+
+**Thread**
+- A thread is the smallest unit of execution.
+- Threads share the process memory but have independent execution paths.
+- A thread cannot exist without a process.
+
+---
+
+###  What is Multithreading?
+- Java multithreading allows multiple threads to execute concurrently.
+- Improves performance by parallel task execution.
+- Enhances responsiveness, especially in GUI and server applications.
+
+---
+
+###  Pros and Cons of Multithreading
+
+**Pros**
+- Efficient CPU utilization
+- Faster execution through parallelism
+- Better performance on multi-core systems
+- Improved application responsiveness
+- Thread failures don’t crash the entire process
+
+**Cons**
+- Increased code complexity
+- Difficult debugging and testing
+- Risk of deadlock and starvation
+- Synchronization overhead
+
+---
+
+###  Thread Lifecycle
+- **New** – Thread object created, start() not called
+- **Runnable** – Ready to run, waiting for CPU
+- **Running** – Actively executing
+- **Blocked / Non-Runnable** – Waiting or sleeping
+- **Terminated** – Execution completed
+
+---
+
+###  Creating Threads in Java
+1. Extending the `Thread` class  
+2. Implementing the `Runnable` interface  
+
+---
+
+###  Thread Class Features
+- Thread creation and execution: `start()`, `run()`
+- Naming: `getName()`, `setName()`
+- Control: `sleep()`, `join()`, `yield()`
+- State & status: `isAlive()`, `getState()`
+- Priority: `getPriority()`, `setPriority()`
+- Interruption: `interrupt()`, `isInterrupted()`
+
+---
+
+###  Thread Types
+- **User Threads** – Must finish before JVM exits
+- **Daemon Threads** – Background services (GC, cleanup)
+
+---
+
+### Key Takeaways
+- Multithreading improves performance but requires careful design
+- Proper synchronization is critical
+- Prefer `Runnable` for better design flexibility
+- Deprecated methods like `stop()`, `suspend()` should be avoided
+
+
+###  Practice Problems – Java Multithreading
+
+1. Download Manager  
+2. Banking System with Multiple Transactions  
+3. Restaurant Order Processing System  
+4. Thread State Monitoring System  
+5. Print Shop Job Scheduler  
+
+---
+
+
+
+#  BridgeLabz Training – MySQL JDBC Practice  
+### Week 8 - Day 42: Database SQL 
+
+This repository contains hands-on practice programs for **Java Database Connectivity (JDBC)** using **MySQL**. The focus is on building real-world, database-driven console applications with proper handling of CRUD operations, transactions, and relational data.
+
+---
+
+##  Core Concepts Covered
+
+- JDBC architecture and workflow  
+- MySQL database connectivity  
+- CRUD operations using `PreparedStatement`  
+- Transaction management (`commit`, `rollback`)  
+- Exception handling in database operations  
+- Search and filtering using SQL queries  
+- Mapping database records to Java objects  
+
+
+
+##  Practice Exercises Implemented
+
+###  Exercise 1: Employee Management System (CRUD)
+A console-based application that supports:
+
+-  Add new employees  
+-  View all employee records  
+-  Update employee salary  
+-  Delete employee details  
+-  Search employee by name  
+
+**Focus Areas:**
+- CRUD operations  
+- Prepared statements  
+- ResultSet processing  
+
+
+
+###  Exercise 2: Banking System – Transaction Management
+A transaction-safe banking system implementing:
+
+-  Money transfer between accounts using transactions  
+-  Balance checking  
+-  Transaction history tracking  
+-  Proper rollback on failure  
+
+**Focus Areas:**
+- ACID properties  
+- Transaction management  
+- Error handling and consistency  
+
+
+
+
+## Section - B
+## Scenarion Based Question
+
+# 🏥 Hospital Management System
+
+## 📌 Overview
+This project implements a Hospital Management System (HMS) that supports patient management, doctor management, appointment scheduling, medical records, billing, and system administration.  
+The system is designed using relational database concepts and JDBC-based backend operations to ensure data integrity, security, and performance.
+
+---
+
+##  Actors
+- Receptionist – Handles patient registration, appointments, billing  
+- Doctor – Manages visits, diagnoses, prescriptions  
+- Administrator – Manages doctors, specialties, reports, and system audits  
+- System – Performs scheduled tasks like database backups  
+
+---
 

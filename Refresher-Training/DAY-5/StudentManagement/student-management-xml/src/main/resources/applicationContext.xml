@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+
+       xsi:schemaLocation="
+       http://www.springframework.org/schema/beans
+       https://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="course"
+          class="com.bridgelabz.student_management.model.Course">
+        <property name="courseName" value="Spring Framework"/>
+        <property name="duration"  value="6"/>
+    </bean>
+ 	<!--setter-->
+     <bean id="address"
+          class="com.bridgelabz.student_management.model.Address">
+        <property name="city" value="Bhopal"/>
+        <property name="state"   value="Madhya Pradesh"/>
+    </bean>
+    <!--constructor--> 
+	<bean id="student"
+	          class="com.bridgelabz.student_management.model.Student">
+	        <constructor-arg value="101"/>
+	        <constructor-arg value="Samar"/>
+	        <constructor-arg value="22"/>
+	        <constructor-arg ref="course"/>
+	        <constructor-arg ref="address"/>
+	
+	</bean>
+
+</beans>

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+
+    <title>Greeting</title>
+    <link rel="stylesheet"
+          href="/css/style.css">
+</head>
+
+<body>
+
+    <div class="container">
+        <h1 th:text="'Hello, '+ ${name} + '!'"></h1>
+        <p> Welcome to Greeting App</p>
+    </div>
+</body>
+
+</html>

@@ -4,6 +4,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.PutMapping;
 
 import com.springmvc.exception.UserAlreadyExistsException;
 import com.springmvc.model.User;
@@ -21,10 +22,18 @@ public class UserController {
 		this.userService  = userService;
 	}
 	
+	
 	@GetMapping("/register")
 	public String showRegisterPage() {
 		return "register";
 	}
+	
+	
+	@GetMapping("/login")
+	public String showLoginPage() {
+		return "login";
+	}
+	
 	
 	@PostMapping("/register")
 	public String registerUser(HttpServletRequest request , Model model ) {
@@ -54,10 +63,9 @@ public class UserController {
 			}else {
 				model.addAttribute("error", "Invalid email or password");
 				return "login";
-			}
-		
-	
-		
+			}	
 	}
+	
+	
 	
 }

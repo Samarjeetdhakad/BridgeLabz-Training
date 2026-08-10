@@ -12,15 +12,15 @@
 			
 			<h1>Create account</h1>
 			
-			<p class ="error" th:if="${error}"th:text="{error}"></p>
+			<p class ="error" th:if="${error}"th:text="${error}"></p>
 			
 			<form action ="register" method ="post">
 				
 				<label>name</label>
-				<input types="text" name="name" required>
+				<input type="text" name="name" required>
 				
 				<label>Email</label>
-				<input type="email" name="email" required>
+				<input type="email" name="email" requiraed>
 				
 				<label>password</label>
 				<input type="password" name="password" required>

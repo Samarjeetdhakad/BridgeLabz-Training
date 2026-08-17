@@ -1,0 +1,158 @@
+package com.payroll.service.employee;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.PageRequest;
+import org.springframework.data.domain.Pageable;
+import org.springframework.data.domain.Sort;
+import org.springframework.stereotype.Service;
+
+import com.payroll.dto.employee.EmployeeRequestDTO;
+import com.payroll.dto.employee.EmployeeResponseDTO;
+import com.payroll.dto.employee.EmployeeSalaryUpdateDTO;
+import com.payroll.entity.Department;
+import com.payroll.entity.Employee;
+import com.payroll.exception.DepartmentNotFoundException;
+import com.payroll.exception.EmployeeNotFoundException;
+import com.payroll.repository.DepartmentRepository;
+import com.payroll.repository.EmployeeRepository;
+
+import lombok.RequiredArgsConstructor;
+import lombok.extern.slf4j.Slf4j;
+
+@Slf4j
+@Service
+@RequiredArgsConstructor
+public class EmployeeServiceImpl implements EmployeeService {
+
+    private final EmployeeRepository employeeRepository;
+    private final DepartmentRepository departmentRepository;
+
+    @Override
+    public EmployeeResponseDTO createEmployee(EmployeeRequestDTO request) {
+    	
+    	//LOG
+
+    	log.debug("Looking up department with id: {}", request.getDepartmentId());
+
+    	
+    	Department department = departmentRepository.findById(request.getDepartmentId())
+                        .orElseThrow(() -> {
+                        	
+                        	// ERROR LOG 
+                        	  log.error("Department not found with id: {}", request.getDepartmentId());
+
+                        	return new DepartmentNotFoundException( "Department not found with id: " + request.getDepartmentId());
+                        });
+
+        Employee employee = new Employee();
+        
+        employee.setName(request.getName());
+        employee.setEmail(request.getEmail());
+        employee.setPhone(request.getPhone());
+        employee.setSalary(request.getSalary());
+        employee.setDepartment(department);
+
+        Employee savedEmployee =employeeRepository.save(employee);
+       
+        log.debug("Employee persisted with id: {}", savedEmployee.getId());
+
+        return mapToResponseDTO(savedEmployee);
+    }
+
+    @Override
+    public void deleteEmployee(Long id) {
+
+        Employee employee = employeeRepository.findById(id).orElseThrow(() -> new EmployeeNotFoundException( "Employee not found with id: " + id ));
+        employeeRepository.delete(employee);
+    }
+
+    @Override
+    public EmployeeResponseDTO updateSalary(  Long id, EmployeeSalaryUpdateDTO request) {
+
+        Employee employee = employeeRepository.findById(id).orElseThrow(() ->
+                        new EmployeeNotFoundException("Employee not found with id: " + id));
+
+        employee.setSalary(request.getSalary());
+
+        Employee updatedEmployee = employeeRepository.save(employee);
+
+        log.debug("Employee record removed from database with id: {}", id);
+        
+        return mapToResponseDTO(updatedEmployee);
+    }
+
+    @Override
+    public List<EmployeeResponseDTO> getEmployeesByDepartment( Long departmentId) {
+
+        Department department = departmentRepository.findById(departmentId).orElseThrow(() ->
+                                new DepartmentNotFoundException( "Department not found with id: "+ departmentId ));
+
+        log.debug("Updating salary for employee with id: {}", departmentId);
+        
+        List<Employee> employees = employeeRepository.findByDepartmentId( department.getId());
+        
+        log.debug("Retrieved {} employees from database for department id: {}", employees.size(), departmentId );
+        
+        List<EmployeeResponseDTO> response = new ArrayList<>();
+       
+        
+        for (Employee employee : employees) {
+            response.add(mapToResponseDTO(employee));
+        }
+        return response;
+    }
+
+  
+    
+    @Override
+    public Page<EmployeeResponseDTO> getAllEmployees(int page, int size,String sortBy, String direction) {
+
+    	 log.debug(
+                 "Fetching employees from database - page: {}, size: {}, sortBy: {}, direction: {}", page, size, sortBy,direction);
+    	 
+        Sort sort;
+
+        if (direction.equalsIgnoreCase("desc")) {
+            sort = Sort.by(sortBy).descending();
+        } else {
+            sort = Sort.by(sortBy).ascending();
+        }
+
+        Pageable pageable = PageRequest.of(page, size, sort);
+        Page<Employee> employees = employeeRepository.findAll(pageable);
+
+        return employees.map(this::mapToResponseDTO);
+    }
+    
+    
+    
+    private EmployeeResponseDTO mapToResponseDTO(Employee employee) {
+
+        EmployeeResponseDTO response = new EmployeeResponseDTO();
+
+        response.setId(employee.getId());
+        response.setName(employee.getName());
+        response.setEmail(employee.getEmail());
+        response.setPhone(employee.getPhone());
+        response.setSalary(employee.getSalary());
+
+        if (employee.getDepartment() != null) {
+            response.setDepartmentId(employee.getDepartment().getId() );
+        }
+        return response;
+    }
+    
+    @Override
+    public EmployeeResponseDTO getEmployeeByEmail(String email) {
+
+        Employee employee = employeeRepository.findEmployeeByEmail(email)
+                .orElseThrow(() -> new EmployeeNotFoundException( "Employee not found with email: " + email ));
+
+        log.debug("Employee record found for email: {}", email);
+
+        return mapToResponseDTO(employee);
+    }
+}

@@ -19,6 +19,8 @@
 | 8 | 11 Aug | API testing, mocking using Postman app and Swagger ui                            | **1.** Updated the Contacts App by writing the mockito test cases on the service layer. |[Day-8](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/refresher-training/Refresher-Training/DAY-8) |
 | 9 | 12 Aug | Spring Boot, auto-configuration, starters, Spring Controller and REST API basics | **1.** Updated the Contacts App with search by name and favourite contact functionality |[Day-9](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/refresher-training/Refresher-Training/DAY-9) |
 | 10 | 13 Aug | Bean Injection in Spring Boot, H2 Implementation | **1.** Completed the Contacts App.<br>**2.** Started the Employee Payroll App. |[Day-10](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/refresher-training/Refresher-Training/DAY-10) |
+| 11 | 14 Aug | Spring Services, Spring JPA & Spring JDBC | **1.** Updated Employee Payroll App & migrated to Spring Data JPA. |[Day-11](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/refresher-training/Refresher-Training/DAY-11) |
+
 
 ---
 

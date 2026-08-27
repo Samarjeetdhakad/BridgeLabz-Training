@@ -21,6 +21,7 @@
 | 10 | 13 Aug | Bean Injection in Spring Boot, H2 Implementation | **1.** Completed the Contacts App.<br>**2.** Started the Employee Payroll App. |[Day-10](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/refresher-training/Refresher-Training/DAY-10) |
 | 11 | 14 Aug | Spring Services, Spring JPA & Spring JDBC | **1.** Updated Employee Payroll App & migrated to Spring Data JPA. |[Day-11](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/refresher-training/Refresher-Training/DAY-11) |
 | 12 | 17 Aug | Spring Scopes, Logging, Maven & Postman | **1.** Updated Employee Payroll App by adding simple loggers and OpenAPI docs. |[Day-12](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/refresher-training/Refresher-Training/DAY-12) |
+| 13 | 18 Aug | Spring Security & JWT Authentication | **1.** Added Fundoo Notes App with basic Spring Security. |[Day-13](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/refresher-training/Refresher-Training/DAY-13) |
 
 
 ---

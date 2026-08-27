@@ -26,6 +26,7 @@
 | 15 | 20 Aug | Organisation Modules: Pin/Archive/Trash, Search & Tags | **1.** Updated Fundoo Notes App with basic User Notes PATCH operations. |[Day-15](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/refresher-training/Refresher-Training/DAY-15) |
 | 16 | 21 Aug | JMS (Asynchronous Messaging) & Redis Caching | **1.** Updated Fundoo Notes App with basic Redis and JMS implementations for learning. |[Day-16](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/refresher-training/Refresher-Training/DAY-16) |
 | 17 | 24 Aug | RabbitMQ & Introduction to Spring Batch | **1.** Updated Fundoo Notes App with RabbitMQ implementation for email reminders and Excel export functionality. |[Day-17](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/refresher-training/Refresher-Training/DAY-17) |
+| 18 | 25 Aug | Global Exception Handling & Logging | **1.** Updated Fundoo Notes App with Global Exception Handling and an aspect to calculate request method timings. |[Day-18](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/refresher-training/Refresher-Training/DAY-18) |
 
 
 ---

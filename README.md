@@ -22,6 +22,7 @@
 | 11 | 14 Aug | Spring Services, Spring JPA & Spring JDBC | **1.** Updated Employee Payroll App & migrated to Spring Data JPA. |[Day-11](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/refresher-training/Refresher-Training/DAY-11) |
 | 12 | 17 Aug | Spring Scopes, Logging, Maven & Postman | **1.** Updated Employee Payroll App by adding simple loggers and OpenAPI docs. |[Day-12](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/refresher-training/Refresher-Training/DAY-12) |
 | 13 | 18 Aug | Spring Security & JWT Authentication | **1.** Added Fundoo Notes App with basic Spring Security. |[Day-13](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/refresher-training/Refresher-Training/DAY-13) |
+| 14 | 19 Aug | Authorization & JPA for Notes Management | **1.** Updated Fundoo Notes App with basic User Notes CRUD. |[Day-14](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/refresher-training/Refresher-Training/DAY-14) |
 
 
 ---

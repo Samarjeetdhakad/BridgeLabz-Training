@@ -24,6 +24,7 @@
 | 13 | 18 Aug | Spring Security & JWT Authentication | **1.** Added Fundoo Notes App with basic Spring Security. |[Day-13](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/refresher-training/Refresher-Training/DAY-13) |
 | 14 | 19 Aug | Authorization & JPA for Notes Management | **1.** Updated Fundoo Notes App with basic User Notes CRUD. |[Day-14](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/refresher-training/Refresher-Training/DAY-14) |
 | 15 | 20 Aug | Organisation Modules: Pin/Archive/Trash, Search & Tags | **1.** Updated Fundoo Notes App with basic User Notes PATCH operations. |[Day-15](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/refresher-training/Refresher-Training/DAY-15) |
+| 16 | 21 Aug | JMS (Asynchronous Messaging) & Redis Caching | **1.** Updated Fundoo Notes App with basic Redis and JMS implementations for learning. |[Day-16](https://github.com/Samarjeetdhakad/BridgeLabz-Training/tree/refresher-training/Refresher-Training/DAY-16) |
 
 
 ---

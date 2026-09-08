@@ -1,0 +1,114 @@
+/.metadata/
+
+# ==============================
+
+# Java / Maven
+
+# ==============================
+
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven wrapper generated files
+
+.mvn/wrapper/maven-wrapper.jar
+
+# ==============================
+
+# IDE - IntelliJ IDEA
+
+# ==============================
+
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# ==============================
+
+# Eclipse / STS
+
+# ==============================
+
+.classpath
+.project
+.settings/
+.factorypath
+
+# ==============================
+
+# VS Code
+
+# ==============================
+
+.vscode/
+
+# ==============================
+
+# SonarLint
+
+# ==============================
+
+.sonarlint/
+
+# ==============================
+
+# Logs
+
+# ==============================
+
+*.log
+logs/
+
+# ==============================
+
+# OS generated files
+
+# ==============================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==============================
+
+# Environment / Secrets
+
+# ==============================
+
+.env
+.env.*
+!.env.example
+
+# ==============================
+
+# Spring Boot
+
+# ==============================
+
+*.pid
+spring.log
+
+# ==============================
+
+# Temporary files
+
+# ==============================
+
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# ==============================
+
+# Local configuration
+
+# ==============================
+
+application-local.properties
+application-local.yml
+application-local.yaml
